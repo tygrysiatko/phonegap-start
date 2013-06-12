@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>First TigerApp</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Just a simple tiger app, scroll on...
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
